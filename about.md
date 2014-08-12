@@ -3,11 +3,17 @@ layout: page
 title: About
 ---
 
-Some information about you!
+`alert("Hello World");`
 
-### More Information
+`puts "Hello World"`
 
-A place to include any other types of information that you'd like to include about yourself. 
+`public class Hello {
+    public static void main(String []args) {
+    System.out.println("Hello World");
+    }
+}`
+
+
 
 ### Contact me
 
